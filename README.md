@@ -47,7 +47,7 @@ Because this is an A/B testing project, my work focused on doing strong statisti
 * **Methodology:** For the button color test, I used a Z-Test to compare the conversion rates. I also measured the effect size (Cohen's h) to see if the change is actually useful for the business.
 * **Results:** The Z-test showed that the conversion rates for the two buttons are very different. The new color significantly improved the conversion rate, meaning it is a better choice for driving sales.
 
-![alt text](image/image-2.png)
+![alt text](image/image-1.png)
 
 ### 3. Marketing Campaign Effectiveness (A/B/n Testing)
 * **Methodology:** To compare many campaigns at the same time, I used a Chi-Square test. I measured the overall impact using Cramer's V and Cohen's W. I also did pairwise Z-tests to find out exactly which campaign was the best.
