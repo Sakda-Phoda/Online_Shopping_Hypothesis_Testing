@@ -40,14 +40,14 @@ Because this is an A/B testing project, my work focused on doing strong statisti
   * **Sales Impact Summary:** The new algorithm increases average sales by **$97.12 /person**.
   * **95% Confidence Interval (Bootstrap):** Expected increase between **[$80.07 to $113.88] /person**.
 
-![alt text](image/image.png)
-![alt text](image/image-2.png)
+![alt text](image/Hypothesis_Testing_1.png)
+![alt text](image/Hypothesis_Testing_2.png)
 
 ### 2. UI/UX Optimization (Button Color)
 * **Methodology:** For the button color test, I used a Z-Test to compare the conversion rates. I also measured the effect size (Cohen's h) to see if the change is actually useful for the business.
 * **Results:** The Z-test showed that the conversion rates for the two buttons are very different. The new color significantly improved the conversion rate, meaning it is a better choice for driving sales.
 
-![alt text](image/image-1.png)
+![alt text](image/Hypothesis_Testing_3.png)
 
 ### 3. Marketing Campaign Effectiveness (A/B/n Testing)
 * **Methodology:** To compare many campaigns at the same time, I used a Chi-Square test. I measured the overall impact using Cramer's V and Cohen's W. I also did pairwise Z-tests to find out exactly which campaign was the best.
@@ -57,4 +57,4 @@ Because this is an A/B testing project, my work focused on doing strong statisti
     * Pair `Buy_1_Get_1` vs `Discount_50%` is significantly different.
     * Pair `Buy_2_Get_2` vs `Discount_50%` has no significant difference.
 
-![alt text](image/image-4.png)
+![alt text](image/Hypothesis_Testing_4.png)
