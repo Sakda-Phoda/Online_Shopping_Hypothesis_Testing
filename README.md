@@ -41,7 +41,7 @@ Because this is an A/B testing project, my work focused on doing strong statisti
   * **95% Confidence Interval (Bootstrap):** Expected increase between **[$80.07 to $113.88] /person**.
 
 ![alt text](image/image.png)
-![alt text](image/image-3.png)
+![alt text](image/image-2.png)
 
 ### 2. UI/UX Optimization (Button Color)
 * **Methodology:** For the button color test, I used a Z-Test to compare the conversion rates. I also measured the effect size (Cohen's h) to see if the change is actually useful for the business.
