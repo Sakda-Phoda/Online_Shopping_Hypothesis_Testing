@@ -2,7 +2,6 @@
 
 ## Project Overview
 * **Objective:** My goal is to see if a new recommendation system, a button color change, and different marketing campaigns actually work. This helps the team launch features that truly increase sales and conversions.
-* **Exploratory Data Analysis (EDA):** I used bar charts and density plots to see the differences between the control and treatment groups before doing formal tests.
 * **Hypothesis Testing & Results:** I used strong statistical tests (Brunner-Munzel, Z-Test, Chi-Square) and power analysis to measure the real impact (effect size) across three separate experiments. The results clearly showed which changes successfully drove more sales and conversions.
 
 ## Objective
@@ -31,17 +30,6 @@ This project uses three separate datasets. Here are the features for each:
 * `reco_system`: Shows which recommendation algorithm the customer saw (`Control_Algo` or `Treatment_Algo`).
 * `items_added_to_cart`: The total number of items the customer added to their shopping cart.
 * `sales`: The total money made from the customer.
-
-## Exploratory Data Analysis (EDA)
-During my analysis, I looked at the initial data and conversion rates for each test. I found that the recommendation system data did not follow a normal curve, so I chose my statistical tests based on this.
-
-
-
-
-
-
-
-
 
 ## Hypothesis Testing & Results
 Because this is an A/B testing project, my work focused on doing strong statistical tests and measuring the real impact. The tests and their results are broken down below:
